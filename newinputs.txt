@@ -1,0 +1,22 @@
+Name: Ming Yin Kenneth Chau
+Phone: 5192806122
+Email: kennetchau@gmail.com
+Whereyourgrad: University of Western Ontario
+Degree: Bachelor Degree(Honors) in Economics and Minor in Computer Science
+focus: Economics and Finance
+SpecialDesignation: CFA level one
+Knowledgablein: Economics and Finance
+Proficientin: Python and SQL
+ExampleofProficient: I have written a python script that allows me to download and analyze stock data from yahoo finance. I have also created an automatic script which allow me to automate the process of writing coverletter
+NotsoProficient: SQL
+Softskills: Team player with the ability to work independently
+Demostrateexampleofsoftskills: I have participated in different academic challenges, such as the Bank of Canada Governor Challenge and Hack Western
+howsoftskillsaffectteam: my experience and skills to bring my team together and help my team meet the deadline by organizing workflow and responsibility among team members
+Company: TD
+Companystat: enrich your customers, communities and colleagues lives
+Role: Analyst
+WhyApply: finance and economcis
+Whatspecabtcomp: one of Canada's largest bank
+Whyufit: Economics and Data Analytics skills
+Jobindustry: finance
+Whatudotoenhance: enroll in the CFA program to enhance my knowledge in the finance industry
