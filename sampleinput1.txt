@@ -1,0 +1,9 @@
+jobtitle:tutor
+company:Western University
+companystat:one of a kind learning experience
+interest:Education and Data Analytics
+special:one of a kind university
+Whyyoufit:Education experience
+foundation:Economics, Finance and Computer Science
+Proficient:Python, Java
+NotsoProf:SQL

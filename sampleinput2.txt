@@ -1,0 +1,9 @@
+jobtitle:analyst
+company:TD
+companystat:provide your customers, communities, and colleagues the confidence to thrive in a changing world
+interest:Economics and Finance
+special:one of Canada's largest bank
+Whyyoufit:Economcis and Data Analytics
+foundation:Economics, Finance and Computer Science
+Proficient:Python, Java
+NotsoProf:SQL
